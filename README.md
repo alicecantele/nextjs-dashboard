@@ -19,8 +19,8 @@ This repository contains a sample project developed following the [official Next
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/alicecantele/nextjs-dashboard.git
+   cd nextjs-dashboard
    ```
 
 2. Install dependencies:
