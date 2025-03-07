@@ -8,14 +8,14 @@ This repository contains a sample project developed following the [official Next
 - Static Site Generation (SSG) and Server-Side Rendering (SSR)
 - API Routes
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/) *(optional)*
 - [Tailwind CSS](https://tailwindcss.com/) *(optional)*
 
-## 📦 Installation and Usage
+## Installation and Usage
 
 1. Clone this repository:
    ```bash
@@ -38,7 +38,7 @@ This repository contains a sample project developed following the [official Next
    http://localhost:3000
    ```
 
-## 📚 Project Structure
+## Project Structure
 
 ```bash
 .
@@ -55,13 +55,13 @@ This repository contains a sample project developed following the [official Next
 └── README.md        # Documentation
 ```
 
-## 📌 Useful Resources
+## Useful Resources
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Official Next.js Tutorial](https://nextjs.org/learn)
 - [Next.js Code Examples](https://github.com/vercel/next.js/tree/canary/examples)
 
-## 📜 License
+## License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
 
