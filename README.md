@@ -18,8 +18,8 @@ Use email `user@nextmail.com` and password `123456` to login.
 
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/) *(optional)*
-- [Tailwind CSS](https://tailwindcss.com/) *(optional)*
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Installation and Usage
 
