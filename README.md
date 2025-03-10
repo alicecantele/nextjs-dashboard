@@ -1,4 +1,4 @@
-# Next.js Learn Tutorial Project
+# Next.js Dashboard Project
 
 This repository contains a sample project developed following the [official Next.js tutorial](https://nextjs.org/learn). It covers fundamental concepts such as:
 
