@@ -8,6 +8,12 @@ This repository contains a sample project developed following the [official Next
 - Static Site Generation (SSG) and Server-Side Rendering (SSR)
 - API Routes
 
+  ![image](https://github.com/user-attachments/assets/180b79cc-5db4-4e0e-9b24-0b5e6dbcb137)
+
+Check this app working in https://nextjs-dashboard-alice-canteles-projects.vercel.app/
+
+Use email `user@nextmail.com` and password `123456` to login.
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/)
